@@ -1,0 +1,3 @@
+def countAll(word):
+    count={}
+
